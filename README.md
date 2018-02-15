@@ -4,7 +4,7 @@ I look forward to seeing everyone in Seattle next month for the Earth Data Prove
 
 ### **Hotel**
 
-Please make your hotel reservation at the [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa). They are offering the GSA per-diem rate for Seattle at $179/night. Enter ESIP as the Group code for the GSA rate. Please book your room by **March 1st**.
+Please make your hotel reservation at the [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa). They are offering the GSA per-diem rate for Seattle at $179/night. Enter 'ESIP' as the Group code for the GSA rate. Please book your room by **March 1st**.
 
 ### **Meeting Location**
 
@@ -37,32 +37,21 @@ Miscellaneous expenses, such as charges for ground transportation and parking, a
 ### **Non-reimbursable expenses include, but are not limited to:**
 
 * Personal entertainment expenses (e.g., movies, games, health club or spa)
-
 * Optional conference activities not included in the standard conference fee, for which prior approval has not been sought
-
 * Valet parking, unless a hotel prohibits guests from parking their own vehicles
-
 * Travel accident insurance premiums
-
 * Costs incurred by failure to cancel transportation lodging
-
 * Cost incurred by failure to use our hotel block and not getting the ESIP rate.
-
 * Traffic and/or parking violation fines
-
 * Rental car accessories (e.g., navigation system, infant car seat)
-
 * Repairs to personal vehicles used for ESIP-related travel
-
 * Spouse, partner or other family member’s expenses
-
 * Laundry service
-
 * Room service
 
 ### **Submitting your Expense Report**
 
 All requests for reimbursements of travel related expenses must be properly documented and submitted to the ESIP Office within 30 days of the travel being completed.  Please make a copy of [this blank expense report](https://docs.google.com/spreadsheets/d/1OEn7uQDjmC7-Kdhb55CAVK8mzoQzj3Y48Pomf94NZMA/edit?usp=sharing) and input all reimbursable expenses.  
 
-**Please combine your expense report and all receipts into a single pdf file and submit to ****billing@esipfed.org****.**
+**Please combine your expense report and all receipts into a single pdf file and submit to **billing@esipfed.org**.**
 
