@@ -2,7 +2,7 @@ We look forward to seeing everyone in Seattle next month for the Earth Data Prov
 
 ### **Hotel**
 
-Please make your hotel reservation at the Watertown Hotel using [this link](https://gc.synxis.com/rez.aspx?shell=PineappleChain2&template=PineappleChain&Hotel=40206&Chain=17448&arrive=03/26/2018&depart=03/29/2018&adult=1&child=0&group=ESIP2018). They are offering the GSA per-diem rate for Seattle at $179/night. Please book your room by **March 1st**.
+Please make your hotel reservation at the Watertown Hotel University District using [this link](https://gc.synxis.com/rez.aspx?shell=PineappleChain2&template=PineappleChain&Hotel=40206&Chain=17448&arrive=03/26/2018&depart=03/29/2018&adult=1&child=0&group=ESIP2018). They are offering the GSA per-diem rate for Seattle at $179/night. Please book your room by **March 1st**.
 
 ### **Meeting Location**
 
