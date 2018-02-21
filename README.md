@@ -6,7 +6,7 @@ Please make your hotel reservation at the Watertown Hotel University District us
 
 ### **Meeting Location**
 
-The workshop will be held at the eScience Institute on the 6th floor of the Physics and Astronomy building in the [WRF Data Science Studio](http://escience.washington.edu/wrf-data-science-studio/) - this is walking distance from the hotel - see directions here: [https://goo.gl/maps/unu66bfGLru](https://goo.gl/maps/unu66bfGLru)
+The workshop will be held at the eScience Institute on the 6th floor of the Physics and Astronomy building in the [WRF Data Science Studio](http://escience.washington.edu/wrf-data-science-studio/) room C610C - this is walking distance from the hotel - see directions here: [https://goo.gl/maps/unu66bfGLru](https://goo.gl/maps/unu66bfGLru)
 
 ### **Air Travel**
 
