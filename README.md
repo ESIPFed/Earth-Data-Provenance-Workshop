@@ -12,7 +12,7 @@ Welcome to the Earth Data Provenance Workshop page.
 * 10:30am - 11:00am   : Break
 * 12:30pm - 2:00pm   : Catered Lunch @eScience
 * 3:30pm - 4:00pm   : Break
-* 5:30pm: Day 1 Finished.
+* 5:30pm: Day 1 Finished
 * 6:30pm: Group Dinner (Location TBD)
 
 ### Wednesday, March 28th
