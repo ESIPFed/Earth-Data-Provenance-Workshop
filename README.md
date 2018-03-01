@@ -22,8 +22,8 @@ We look forward to seeing everyone in Seattle for the Earth Data Provenance Work
 * 10:30am - 11:00am: Break
 * 12:30pm : Wrap up. Thanks everyone!
 
-[Detailed Agenda] (https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda)
+[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda)
 
-[Participant List] (https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants)
+[Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants)
 
-[Travel Information] (https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information)
+[Travel Information](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information)
