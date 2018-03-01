@@ -1,8 +1,8 @@
-We look forward to seeing everyone in Seattle for the Earth Data Provenance Workshop. 
+Welcome to the Earth Data Provenance Workshop page. 
 
 ## Meeting Information
-[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda)
-[Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants)
+[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda) | 
+[Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants) | 
 [Travel Information](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information)
 
 
