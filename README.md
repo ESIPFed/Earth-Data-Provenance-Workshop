@@ -1,4 +1,10 @@
-We look forward to seeing everyone in Seattle for the Earth Data Provenance Workshop. Please plan to arrive by the evening of Monday, March 26th and depart Thursday, March 29th after 2pm - we will wrap-up the workshop by noon on Thursday. 
+We look forward to seeing everyone in Seattle for the Earth Data Provenance Workshop. 
+
+## Meeting Information
+[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda)
+[Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants)
+[Travel Information](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information)
+
 
 ## At a Glance Agenda
 ### Tuesday, March 27th
@@ -22,8 +28,3 @@ We look forward to seeing everyone in Seattle for the Earth Data Provenance Work
 * 10:30am - 11:00am: Break
 * 12:30pm : Wrap up. Thanks everyone!
 
-[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda)
-
-[Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants)
-
-[Travel Information](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information)
