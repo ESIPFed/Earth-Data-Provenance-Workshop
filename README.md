@@ -1,5 +1,3 @@
-Welcome to the Earth Data Provenance Workshop page. 
-
 ## Meeting Information
 [Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda) | 
 [Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants) | 
