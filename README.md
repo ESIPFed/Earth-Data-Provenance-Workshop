@@ -32,10 +32,6 @@
 
 ***
 
-![Top Ten Interview Words](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/blob/master/Images/cloud_16041.png)
-
-***
-
 <p align="center"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png" width=200/ hspace="20">
   <img src="http://www.esipfed.org/wp-content/uploads/2016/12/ESIP-final-logo.png"/ hspace="20">
