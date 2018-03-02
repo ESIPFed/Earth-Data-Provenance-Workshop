@@ -36,4 +36,4 @@
 
 ***
 
-! [This workshop is supported by funding from USGS](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png)
+!['This workshop is supported by funding from USGS'](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png)
