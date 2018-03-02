@@ -36,8 +36,8 @@
 
 ***
 
-<p align="center">
-  This workshop is supported by:  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png" width=200/>  +  
+<p align="center"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png" width=200/>
+  nbsp
   <img src="http://www.esipfed.org/wp-content/uploads/2016/12/ESIP-final-logo.png"/>
 </p>
