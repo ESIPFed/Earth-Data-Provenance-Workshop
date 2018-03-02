@@ -5,7 +5,7 @@
 [Questions?](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Questions%3F)
 
 
-## At a Glance Agenda
+## At a Glance Agenda (Draft)
 ### Tuesday, March 27th
 * 7:00am - 8:00am : Breakfast for out-of-towners at the Pineapple Cafe inside the Watertown Hotel
 * 8:30am - 9:00am : Get started at eScience
