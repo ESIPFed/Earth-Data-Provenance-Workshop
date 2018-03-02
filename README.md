@@ -32,6 +32,6 @@
 
 ***
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png)
+![](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/blob/master/Images/USGS.png?raw=true)
 ![](http://www.esipfed.org/wp-content/uploads/2016/12/ESIP-final-logo.png)
 
