@@ -30,5 +30,5 @@
 * 10:30am - 11:00am: Break
 * 12:30pm : Wrap up. Thanks everyone!
 
-![](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/blob/master/Images/cloud_16038.png)
+![Top Ten Interview Words](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/blob/master/Images/cloud_16041.png)
 
