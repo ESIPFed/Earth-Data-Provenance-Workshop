@@ -30,7 +30,10 @@
 * 10:30am - 11:00am: Break
 * 12:30pm : Wrap up. Thanks everyone!
 
+***
+
 ![Top Ten Interview Words](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/blob/master/Images/cloud_16041.png)
 
+***
 
-`This workshop is supported by funding from the USGS.`
+! [This workshop is supported by funding from USGS](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png)
