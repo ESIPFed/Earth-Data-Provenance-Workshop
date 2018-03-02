@@ -1,3 +1,5 @@
+<img src="https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/blob/master/Images/cloud_16038.png" alt="Drawing" style="width: 50px;"/>
+
 ## Meeting Information
 [Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda) | 
 [Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants) | 
