@@ -37,3 +37,6 @@
 ***
 
 !['This workshop is supported by funding from USGS'](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png)
+<p align="center">
+  <img src="http://www.esipfed.org/wp-content/uploads/2016/12/ESIP-final-logo.png"/>
+</p>
