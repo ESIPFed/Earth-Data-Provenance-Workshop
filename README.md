@@ -37,6 +37,6 @@
   <img src="http://www.esipfed.org/wp-content/uploads/2016/12/ESIP-final-logo.png"/ hspace="20">
 </p>
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png =150x)
+![](https://upload.wikimedia.org/wikipedia/commons/0/08/USGS_logo.png | width=200)
 ![](http://www.esipfed.org/wp-content/uploads/2016/12/ESIP-final-logo.png)
 
