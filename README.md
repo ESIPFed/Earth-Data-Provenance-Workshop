@@ -15,7 +15,7 @@
 * 12:30pm - 2:00pm   : Catered Lunch @eScience
 * 3:30pm - 4:00pm   : Break
 * 5:30pm: Day 1 Finished
-* 6:30pm: Group Dinner (Location TBD)
+* 6:30pm: Group Dinner at Ivars Salmon House (https://goo.gl/maps/EgUXH49P6xM2) 
 
 ### Wednesday, March 28th
 * 7:00am - 8:00am : Breakfast for out-of-towners at the Pineapple Cafe inside the Watertown Hotel
