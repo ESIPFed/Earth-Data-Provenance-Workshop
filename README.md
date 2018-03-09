@@ -8,6 +8,9 @@
 
 
 ## At a Glance Agenda (Draft)
+### Monday, March 26th
+* 6:30pm : Informal meet up at [Big Time Brewery & Alehouse](https://goo.gl/maps/xcgam5Jfog32)
+
 ### Tuesday, March 27th
 * 7:00am - 8:00am : Breakfast for out-of-towners at the Pineapple Cafe inside the Watertown Hotel
 * 8:30am - 9:00am : Get started at eScience
