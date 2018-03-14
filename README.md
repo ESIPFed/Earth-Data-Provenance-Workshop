@@ -3,6 +3,7 @@
 ## Meeting Information
 [Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda-(Draft)) | 
 [Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants) | 
+[Pre-Workshop Questions & Answers](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/PreWorkshop-Questions-&-Answers) |
 [Travel Information](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information) |
 [Questions?](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Questions%3F)
 
