@@ -13,7 +13,7 @@
 - Publish provenance in data packages
 - Display provenance simply and clearly for researchers
 
-Rickett's data package on '' is an example of a typical data package in the Arctic Data Center with a detailed provenance description of the relations among components of the package.
+Rickett's data package on [Soil bacterial communities](https://arcticdata.io/catalog/#view/doi:10.18739/A2556Q) is an example of a typical data package in the Arctic Data Center with a detailed provenance description of the relations among components of the package.
 
 ## ProvONE model and Data Package
 
