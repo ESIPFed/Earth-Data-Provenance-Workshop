@@ -1,7 +1,7 @@
 *Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness.* Source: [https://www.w3.org/TR/prov-overview/](https://www.w3.org/TR/prov-overview/)
 
 ## Meeting Information
-[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda-(Draft)) | 
+[Detailed Agenda](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Detailed-Agenda) | 
 [Participant List](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Participants) | 
 [Pre-Workshop Questions & Answers](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/PreWorkshop-Questions-&-Answers) |
 [Travel Information](https://github.com/ESIPFed/Earth-Data-Provenance-Workshop/wiki/Travel-Information) |
