@@ -25,3 +25,7 @@ It was found that creating the detailed processing step lineage was more work th
 
 Multiple web services offering data from differnent geological surveys in same xml format to simplify integration of data.
 Each feature or observation includes a URL for a source metadata record. In this case ISO 19139 xml records were generated for each data source, and the individual observations are linked to that record. The system would allow each feature to be linked with a separate metadata record that would include the full ISO19115 lineage model, but in practice this was never done, again because of the cost-benefit calculation.
+
+## CINERGI
+
+EarthCube project, to develop catalog of earth science resources for EarthCube. Pipeline for running 'enhancement' processes on metadata records. The Pipeline processors each push annotation about their action to an evolving prov record. Use W3C prov model. Initial effort had separate prov server. For operational reasons, prov is now added in the internal document store witht the metadata.
