@@ -16,7 +16,7 @@
 * 7:00am - 8:00am : Breakfast for out-of-towners at the Pineapple Cafe inside the Watertown Hotel
 * 8:30am - 9:00am : Get started at eScience
 * 10:30am - 11:00am   : Break
-* 12:30pm - 2:00pm   : Catered Lunch @eScience
+* 12:30pm - 1:30pm   : Catered Lunch @eScience
 * 3:30pm - 4:00pm   : Break
 * 5:30pm: Day 1 Finished
 * 6:30pm: Group Dinner at [Ivars Salmon House](https://goo.gl/maps/EgUXH49P6xM2) 
