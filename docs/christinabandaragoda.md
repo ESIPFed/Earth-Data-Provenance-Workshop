@@ -4,8 +4,12 @@ The overarching goal of this program is to transform innovations in research and
 ## HydroShare
 HydroShare is a system operated by The Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI) that enables users to share and publish data and models in a variety of flexible formats, and to make this information available in a citable, shareable and discoverable manner.  HydroShare includes a repository for data and models, and tools (web apps) that can act on content in HydroShare providing users with a gateway to high performance computing and computing in the cloud. [Visit HydroShare](https://www.hydroshare.org)
 
+![HydroShare Functions](https://github.com/ChristinaB/Earth-Data-Provenance-Workshop/blob/master/Images/HydroShare_Howitworks.JPG)
+
 ## RAPID Collaborative Research: Building infrastructure to prevent disasters like Hurricane Maria
 Recovery efforts from natural disasters can be more efficient with data-driven information on the current needs and future risks. We aim to advance open-source software infrastructure to support scientific investigation with a prototype system developed for post-Hurricane Maria drinking water contamination in Puerto Rico.  We are developing a unique data archive to allow us to generate testable hypotheses on how the severity of a hazard to human health and well-being is related to the sophistication, connectivity, and operations of the physical and digital infrastructure systems.  [Visit our project Wiki](https://github.com/hydroshare/PuertoRicoWaterStudies/wiki)
+
+![Infrastructure](https://www.hydroshare.org/django_irods/download/0c9d72302aec43d3afc4d18637670947/data/contents/AGUPosterDiagram.JPG)
 
 ## Landlab
 Landlab is a Python-based modeling environment that allows scientists and students to build numerical landscape models. Designed for disciplines that quantify earth surface dynamics such as geomorphology, hydrology, glaciology, and stratigraphy, it can also be used in related fields.  Landlab provides components to compute flows (such as water, sediment, glacial ice, volcanic material, or landslide debris) across a gridded terrain. With its robust, reusable components, Landlab allows scientists to quickly build landscape model experiments and compute mass balance across scales. [VIsit Landlab.](http://landlab.github.io/#/)
