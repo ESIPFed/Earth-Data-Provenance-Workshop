@@ -25,7 +25,7 @@
 * 7:00am - 8:00am : Breakfast for out-of-towners at the Pineapple Cafe inside the Watertown Hotel
 * 8:30am - 9:00am : Get started at eScience
 * 10:30am - 11:00am: Break
-* 12:30pm - 2:00pm: Catered Lunch @eScience
+* 12:30pm - 1:30pm: Catered Lunch @eScience
 * 3:00pm - 3:30pm: Break
 * 4:30pm : Day 2 Finished
 * 4:30pm : [Agua Verde](https://goo.gl/maps/7uphtQVtyi52) for happy hour + dinner
