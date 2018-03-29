@@ -10,7 +10,9 @@ From an Earth Science data producer perspective, we focused more on extending W3
 It was an application of the [W3C PROV-DM](http://www.w3.org/TR/2013/REC-prov-dm-20130430/) and its submitted [PROV-JSON](http://www.w3.org/Submission/2013/SUBM-prov-json-20130424/) serialization.
 A table to convey the [prototype PROV-ES Mapping to W3C PROV](https://docs.google.com/spreadsheets/d/1gsyuKY-xD1yQaHD6QVB6vJ3YmDWL9WKPiSopW8BtuB8/edit#gid=0)
 
-# Protoype implementation
+[Collected Provenance Use Cases](https://docs.google.com/spreadsheet/ccc?key=0AlQ95ca89UmYdEJXX05NVDRhRGRWV09hcmNENnFROHc#gid=0)
+
+# PROV-ES Faceted Search (protoype implementation)
 
 A prototype implementation was developed in infused in a few science data systems to generate prov-es traces of data granules in production.
 
