@@ -1,0 +1,83 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ns0: <http://www.openarchives.org/ore/terms/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://purl.org/spar/cito/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix provone:<http://purl.dataone.org/provone/2015/01/15/ontology#>.
+
+<urn:uuid:5e584828-c9ff-4ca5-b507-01fcc640feea>
+     a       provone:Execution ;
+    dc:identifier    "divide_math_example"^^xsd:string ;
+    prov:qualifiedAssociation [
+         prov:hadPlan <https://foo.edu/divide_math_script> ;
+         a   prov:Association 
+    ] ;
+    prov:qualifiedUsage [
+         a    prov:Usage ;
+         prov:hasInPort      <numerator_port> ;
+         provone:hadEntity   <numerator_data>      
+    ] ;
+    prov:qualifiedUsage [
+         a    prov:Usage ;
+         prov:hasInPort      <denominator_port> ;
+         provone:hadEntity   <denominator_data>      
+    ] ;
+    prov:qualifiedGeneration [
+        a   prov:Generation ;
+        prov:hasOutPort     <quotient_port> ;
+        provone:hadEntity  <quotient_data> 
+    ] ;
+    prov:used       <denominator_data> ;
+    prov:used       <numerator_data>   
+	.
+
+<numerator_data>
+	a provone:Data ;
+	dc:identifier "8"^^xsd:integer .
+
+<denominator_data>
+	a provone:Data ;
+	dc:identifier "2"^^xsd:integer .
+
+<quotient_data>
+	a provone:Data ;
+	dc:identifier "4"^^xsd:integer .
+					    
+<numerator_port>
+    a   provone:Port ; 
+    dc:identifier    "numerator_port"^^xsd:string .
+	
+<numerator_channel>
+    a     provone:Channel ;
+    dc:identifier    "numerator_channel"^^xsd:string .
+	
+<numerator_port>   provone:connectsTo   <numerator_channel>  .
+
+<denominator_port>
+     a  provone:Port ;
+     dc:identifier   "denominator_port"^^xsd:string .
+	 
+<denominator_channel>
+     a  provone:Channel ;
+     dc:identifier  "denominator_channel"^^xsd:string .
+	 
+<denominator_port>  provone:connectsTo <denominator_channel>  .
+
+<quotient_port>
+    a  provone:Port ;
+    dc:identifier   "quotient_port"^^xsd:string .
+	
+<quotient_channel>
+     a  provone:Channel ;
+     dc:identifier  "quotient_channel"^^xsd:string .
+<quotient_port>  provone:connectsTo <quotient_channel>  .
+
+
+<https://foo.edu/divide_math_script>
+  a provone:Program ;
+  dc:identifier "divide_math_formula"^^xsd:string ;
+  provone:hadInPort  <numerator_port> ;
+  provone:hadInPort <denominator_port> ;
+  provone:hadOutPort <quotient_port> 
+  .
